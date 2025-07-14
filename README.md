@@ -55,14 +55,14 @@ An interactive SQL experience, where I practiced real PostgreSQL queries through
 
 ## 💎 Test Artefacts
 
-### [Project #1: online shopping website] (https://github.com/katja-balakireva/demoshopping_project)
+### [Project #1: online shopping website](https://github.com/katja-balakireva/demoshopping_project)
 
 - Test Cases for Registration Module
 - Bug Reports for Registration Module
 - Bug Reports for Cart Module
 - Postman Collection for API Testing
 
-### [Project #2: to-do list mobile app] (https://github.com/katja-balakireva/to-do-list-project)
+### [Project #2: to-do list mobile app](https://github.com/katja-balakireva/to-do-list-project)
 
 - Check list for app testing
 - Test cases
