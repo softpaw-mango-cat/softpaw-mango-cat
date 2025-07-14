@@ -1,4 +1,4 @@
-## Hi, this is Katja 🥭 Welcome to my Junior QA portfolio 
+![Adventure banner](images/banner_with_text.png)
 
 🌱 I’m an aspiring QA Engineer with a long background in tech support — been at it for over 8 years! I’ve always loved digging into problems and figuring out how things work, and after spending the last few years in the edtech field, I realized that QA is exactly where I want to be.
 
