@@ -68,6 +68,17 @@ An interactive SQL experience, where I practiced real PostgreSQL queries through
 - Test cases
 - Bug Reports 
 
-## 💎 Socials
+## 🌐 Socials
 
+<p align="center">
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
