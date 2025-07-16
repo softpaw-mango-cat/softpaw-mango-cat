@@ -1,83 +1,95 @@
 ![Adventure banner](images/banner_with_text.png)
 
-🌱 I’m an aspiring QA Engineer with a long background in tech support — been at it for over 8 years! I’ve always loved digging into problems and figuring out how things work, and after spending the last few years in the edtech field, I realized that QA is exactly where I want to be.
+🌱 Давай знакомиться — я начинающий QA, перехожу в эту сферу из техподдержки (9+ лет опыта в самых разных проектах). Мне всегда нравилось разбираться в проблемах продукта и понимать, как всё устроено. После нескольких лет работы в области онлайн-образования и поисков себя в разных айтишных занятиях я поняла, что именно тестирование — это то, чем я хочу заниматься дальше.
 
-📚 While still working full-time, I started teaching myself QA basics and a bit of coding, slowly building up my skills. Recently, I wrapped up a SQL course, and now I’m diving deeper into Java, which I really enjoy and plan to use for test automation.
+📚 Параллельно с работой в поддержке я начала самостоятельно изучать основы тестирования, коснулась также программирования и постепенно прокачивала свои навыки. Недавно я завершила классный профессиональный курс по QA, а сейчас активно изучаю Java — язык, который я люблю и уважаю, и планирую использовать для автоматизации.
 
-🎲 Outside of work, I’m super into video games, tabletop games, and sometimes mess around with AI tools to generate art just for fun (like the one you can see on top of this page). I’d love to join a dev or product team where I can grow, learn from others, and help make software better and more reliable.
+🎲 В свободное время я увлекаюсь настолками, видеоиграми и иногда балуюсь генерацией картинок с помощью AI (все изображения в моих пет-проектах — из нейронок). Мне хотелось стать частью команды разработки крутого продукта, где я смогу развиваться дальше в тестировании, учиться у коллег и вносить свой вклад в создание надёжного и качественного ПО.
 
-## 💻 Courses I've completed
+## ⚙️ Стэк
 
-✔️ **Functional QA Testing** <br>
-*[Online course by Artsiom Rusau](https://www.rusau.net/)* <br>
+<!-- Вот здесь нужно будет обновить инфу по стэку -->
 
- This one helped me cover all the essentials needed for a junior QA engineer — from writing effective test cases and identifying bugs to exploring all kinds of tools for manual testing. It gave me hands-on experience with core QA topics like test planning, bug tracking, and using popular testing frameworks. <br>
-[Certificate link](https://drive.google.com/file/d/1-5BimAsHYHSIurPwat6ubOSg-slKqa8C/view?usp=sharing)
-
-✔️ **Test Design Techniques** <br>
-*[Stepik.org course by Tatyana Ovchinnikova](https://stepik.org/course/130561/promo)* <br>
-
-In this course, I learned the core test design techniques like equivalence class partitioning, boundary value analysis, decision tables, domain testing, and pairwise testing. It helped me understand how to create efficient and meaningful test cases without overloading the test suite. <br>
-[Certificate link](https://drive.google.com/file/d/1-5BimAsHYHSIurPwat6ubOSg-slKqa8C/view?usp=sharing)
-
-✔️ **SQL Academy Course** <br>
-*[SQL practice and tasks simulator](https://sql-academy.org/en)* <br>
-
-An interactive SQL experience, where I practiced real PostgreSQL queries through hands-on exercises. It helped me build a solid understanding of SQL basics, joins, subqueries, and data manipulation. <br>
-[Certificate link](https://drive.google.com/file/d/1-5BimAsHYHSIurPwat6ubOSg-slKqa8C/view?usp=sharing)
-
-## ⚙️ Stack
-
-### Testing Tools  
+### Инструменты тестирования
 ![TestIT](https://img.shields.io/badge/TestIT-lavender)
 ![TestRail](https://img.shields.io/badge/TestRail-lavender)
 ![Jira](https://img.shields.io/badge/Jira-lavender)
 ![Confluence](https://img.shields.io/badge/Confluence-lavender)
 ![Youtrack](https://img.shields.io/badge/Youtrack-lavender)
 
-### API Testing  
+### Тестирование API 
 ![Postman](https://img.shields.io/badge/Postman-lightblue)
 ![SoapUI](https://img.shields.io/badge/SoapUI-lightblue)
 ![Devtools](https://img.shields.io/badge/Devtools-lightblue)
 ![Swagger](https://img.shields.io/badge/Swagger-lightblue)
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-lightblue)
 
-### Databases  
+### Работа с БД 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D0F0C0)
 ![MongoDB](https://img.shields.io/badge/MongoDB-D0F0C0)
 ![DBeaver](https://img.shields.io/badge/DBeaver-D0F0C0)
 
-### Development Tools  
+### Инструменты разработки 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-thistle)
 ![Git](https://img.shields.io/badge/Git-thistle)
 ![GitHub](https://img.shields.io/badge/GitHub-thistle)
 ![VSCode](https://img.shields.io/badge/VSCode-thistle)
 
-## 💎 Test Artefacts
+## 💎 Проекты
 
-### [Project #1: online shopping website](https://github.com/katja-balakireva/demoshopping_project)
+<!-- Здесь вставить ссылки на актуальные проекты, и список с артефактами -->
 
-- Test Cases for Registration Module
-- Bug Reports for Registration Module
-- Bug Reports for Cart Module
-- Postman Collection for API Testing
+### [Проект #1: название проекта](https://github.com/katja-balakireva/demoshopping_project)
 
-### [Project #2: to-do list mobile app](https://github.com/katja-balakireva/to-do-list-project)
+- Артефакты проекта
+- Артефакты проекта
+- Артефакты проекта
+- Артефакты проекта
 
-- Check list for app testing
-- Test cases
-- Bug Reports 
+### [Проект #2: название проекта](https://github.com/katja-balakireva/to-do-list-project)
 
-## 🌐 Socials
+- Артефакты проекта
+- Артефакты проекта
+- Артефакты проекта
+- Артефакты проекта
+
+## 📝 Курсы
+
+✔️ **Функциональное тестирование ПО** <br>
+*[Курс Артёма Русова](https://www.rusau.net/)* <br>
+
+Мой первый шаг в изучении тестирования. Познакомилась с теорией тестирования, тест-дизайном и документацией, тестированием веб-приложений, API, немного мобильных приложений. Научилась работать с БД, в Git и bash. <br>
+[Сертификат](https://drive.google.com/file/d/14UfiTg674U0ovdIs0X4qvSpqWxXCYXcN/view?usp=sharing)
+
+✔️ **Багаж тестировщика: техники тест-дизайна** <br>
+*[Бесплатный популярный курс на stepik.org](https://stepik.org/course/218257/promo)* <br>
+
+Изучила методы и уровни тестирования, применила техники классов эквивалентности, граничных значений, их совокупности и поработала с таблицей принятия решений. <br>
+
+✔️ **Интерактивный онлайн курс по SQL** <br>
+*[Курс от SQL Academy](https://sql-academy.org/ru)* <br>
+
+Познакомилась с основами реляционных БД, порешала много задачек в тренажёре и на волне вдохновения сделала свой маленький пет-проект Elder Database Online.<br>
+[Сертификат](https://drive.google.com/file/d/1-5BimAsHYHSIurPwat6ubOSg-slKqa8C/view?usp=sharing)
+
+✔️ **Инженер по тестированию** <br>
+*[Курс проф переподготовки от Нетологии](https://netology.ru/programs/qa-middle#/)* <br>
+
+Полноценное обучение профессии тестировщика, включало в себя следующие модули: тестирование веб-приложений, работа с Git, Java для тестировщиков, автотесты на Java. <br>
+[Диплом](https://drive.google.com/file/d/1-5BimAsHYHSIurPwat6ubOSg-slKqa8C/view?usp=sharing)
+
+## 🌐 Контакты
+
+<!-- Заменить LinkedIn на что-нибудь другое -->
 
 <p align="center">
-  <a href="mailto:yourname@gmail.com">
+  <a href="mailto:onemoredragon@gmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/one_more_dragon" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
