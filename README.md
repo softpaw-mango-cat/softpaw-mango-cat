@@ -83,13 +83,7 @@
 <!-- Заменить LinkedIn на что-нибудь другое -->
 
 <p align="center">
-  <a href="mailto:onemoredragon@gmail.com" style="text-decoration: none; display: inline-block; margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a><a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none; display: inline-block; margin: 0 8px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a><a href="https://t.me/one_more_dragon" style="text-decoration: none; display: inline-block; margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+  <a href="mailto:onemoredragon@gmail.com" style="text-decoration: none; display: inline-block; margin: 0 8px;"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://www.linkedin.com/in/yourusername/" style="text-decoration: none; display: inline-block; margin: 0 8px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://t.me/one_more_dragon" style="text-decoration: none; display: inline-block; margin: 0 8px;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 
