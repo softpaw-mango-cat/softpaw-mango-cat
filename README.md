@@ -1,3 +1,13 @@
+> **tldr: ссылки**
+> * [Стэк](#-стэк)
+> * [Проекты](#-проекты)
+> * [Образование](#-образование)
+> * [Контакты](#-контакты)   
+
+
+---
+
+
 🐈 Привет! Меня зовут Катя, я начинающая тестировщица и перехожу в эту сферу из техподдержки (9+ лет опыта в самых разных проектах). Мне всегда нравилось разбираться в проблемах продукта и понимать, как всё устроено. После нескольких лет работы в области онлайн-образования и поисков себя в разных айтишных занятиях я поняла, что именно тестирование — это то, чем я хочу заниматься дальше.
 
 ![Adventure banner](images/cat_img.png)
@@ -12,17 +22,16 @@
 
 ### Инструменты тестирования
 ![TestIT](https://img.shields.io/badge/TestIT-lavender)
-![TestRail](https://img.shields.io/badge/TestRail-lavender)
+![Yandex Tracker](https://img.shields.io/badge/Yandex%20Tracker-lavender)
 ![Jira](https://img.shields.io/badge/Jira-lavender)
 ![Confluence](https://img.shields.io/badge/Confluence-lavender)
-![Youtrack](https://img.shields.io/badge/Youtrack-lavender)
 
 ### Тестирование API 
-![Postman](https://img.shields.io/badge/Postman-lightblue)
-![SoapUI](https://img.shields.io/badge/SoapUI-lightblue)
-![Devtools](https://img.shields.io/badge/Devtools-lightblue)
-![Swagger](https://img.shields.io/badge/Swagger-lightblue)
-![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-lightblue)
+![Postman](https://img.shields.io/badge/Postman-powderblue)
+![SoapUI](https://img.shields.io/badge/SoapUI-powderblue)
+![Devtools](https://img.shields.io/badge/Devtools-powderblue)
+![Swagger](https://img.shields.io/badge/Swagger-powderblue)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-powderblue)
 
 ### Работа с БД 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D0F0C0)
@@ -30,21 +39,37 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-D0F0C0)
 
 ### Инструменты разработки 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-thistle)
-![Git](https://img.shields.io/badge/Git-thistle)
-![GitHub](https://img.shields.io/badge/GitHub-thistle)
-![VSCode](https://img.shields.io/badge/VSCode-thistle)
+![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-lightsalmon)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-lightsalmon)
+![VSCode](https://img.shields.io/badge/VSCode-lightsalmon)
+![GitHub](https://img.shields.io/badge/GitHub-lightsalmon)
+![GitLab](https://img.shields.io/badge/GitLab-lightsalmon)
+
+
+### Языки программирования, фреймворки и др.
+![Java Core](https://img.shields.io/badge/Java%20Core-thistle)
+![Selenium](https://img.shields.io/badge/Selenium-thistle)
+![Selenide](https://img.shields.io/badge/Selenide-thistle)
+![Maven](https://img.shields.io/badge/Maven-thistle)
+![Gradle](https://img.shields.io/badge/Gradle-thistle)
+![Allure](https://img.shields.io/badge/Allure-thistle)
+![Docker](https://img.shields.io/badge/Docker-thistle)
+
+### Остальные инструменты
+![Notion](https://img.shields.io/badge/Notion-mistyrose)
+![Miro](https://img.shields.io/badge/Miro-mistyrose)
+![Figma](https://img.shields.io/badge/Figma-mistyrose)
 
 ## 💎 Проекты
 
 <!-- Здесь вставить ссылки на актуальные проекты, и список с артефактами -->
 
-### [Проект #1: название проекта](https://github.com/katja-balakireva/demoshopping_project)
+### [Проект #1: Тестирование мобильного приложения Todo List](https://github.com/softpaw-mango-cat/todo-list-app)
 
-- Артефакты проекта
-- Артефакты проекта
-- Артефакты проекта
-- Артефакты проекта
+- [Описание проекта](https://github.com/softpaw-mango-cat/todo-list-app/blob/main/README.md)
+- [Чеклист тестирования](https://github.com/softpaw-mango-cat/todo-list-app/blob/main/test-artifacts/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82.md)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1_VVhHwFq_Km8h8RHfvCSrSh-xr8J6LFAfSyv45_wKmU/edit?usp=sharing)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1J04u481pCNr-XKiKd7lTxV1RqD-THbXV9NBfCxVvCPg/edit?usp=sharing)
 
 ### [Проект #2: название проекта](https://github.com/katja-balakireva/to-do-list-project)
 
@@ -53,7 +78,11 @@
 - Артефакты проекта
 - Артефакты проекта
 
-## 📝 Курсы
+## 📝 Образование
+
+🎓**Высшее техническое** - Московский государственный строительный университет, Москва, 2014  
+Институт экономики, управления и информационных систем в строительстве  
+Экспертиза и управление недвижимостью, инженер  
 
 ✔️ **Функциональное тестирование ПО** <br>
 *[Курс Артёма Русова](https://www.rusau.net/)* <br>
@@ -65,6 +94,7 @@
 *[Бесплатный популярный курс на stepik.org](https://stepik.org/course/218257/promo)* <br>
 
 Изучила методы и уровни тестирования, применила техники классов эквивалентности, граничных значений, их совокупности и поработала с таблицей принятия решений. <br>
+[Сертификат](https://drive.google.com/file/d/1ctHJQlhlpyrQDy_ie6Ir6vqjNcvg6pfi/view?usp=sharing)
 
 ✔️ **Интерактивный онлайн курс по SQL** <br>
 *[Курс от SQL Academy](https://sql-academy.org/ru)* <br>
@@ -76,16 +106,16 @@
 *[Курс проф переподготовки от Нетологии](https://netology.ru/programs/qa-middle#/)* <br>
 
 Полноценное обучение профессии тестировщика, включало в себя следующие модули: тестирование веб-приложений, работа с Git, Java для тестировщиков, автотесты на Java. <br>
-[Диплом](https://drive.google.com/file/d/1-5BimAsHYHSIurPwat6ubOSg-slKqa8C/view?usp=sharing)
+[Диплом](https://drive.google.com/file/d/1hSh0f5NDW8Ri33g6Fs7LkwhFTG0F4K7_/view?usp=sharing)
 
 ## 🌐 Контакты
 
 <!-- Заменить LinkedIn на что-нибудь другое -->
 
-<p align="center">
-  <a href="mailto:onemoredragon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://t.me/one_more_dragon"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<p align="left">
+<a href="mailto:onemoredragon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://t.me/one_more_dragon"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Contact"/></a>
+  <a href="https://t.me/one_more_dragon"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab Contact"/></a>
 </p>
 
 
