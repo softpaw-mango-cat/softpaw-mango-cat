@@ -66,12 +66,12 @@
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1_VVhHwFq_Km8h8RHfvCSrSh-xr8J6LFAfSyv45_wKmU/edit?usp=sharing)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1J04u481pCNr-XKiKd7lTxV1RqD-THbXV9NBfCxVvCPg/edit?usp=sharing)
 
-### [Проект #2: название проекта](https://github.com/katja-balakireva/to-do-list-project)
+### [Проект #2: Тестирование онлайн-магазина demoshopping.ru](https://github.com/softpaw-mango-cat/demoshopping_web)
 
-- Артефакты проекта
-- Артефакты проекта
-- Артефакты проекта
-- Артефакты проекта
+- [Описание проекта](https://github.com/softpaw-mango-cat/demoshopping_web/blob/main/README.md)
+- [Пользовательские истории] (https://github.com/softpaw-mango-cat/demoshopping_web/blob/main/User-Stories.md)
+- [Табличка артефактов] (https://docs.google.com/spreadsheets/d/1PDB1S-JbiSdGEvUOIi5YzPj1P6BV81LnLYyTL4tWFMU/edit?usp=sharing)
+
 
 ## 📝 Образование
 
