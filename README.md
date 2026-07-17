@@ -69,8 +69,8 @@
 ### [Проект #2: Тестирование онлайн-магазина demoshopping.ru](https://github.com/softpaw-mango-cat/demoshopping_web)
 
 - [Описание проекта](https://github.com/softpaw-mango-cat/demoshopping_web/blob/main/README.md)
-- [Пользовательские истории] (https://github.com/softpaw-mango-cat/demoshopping_web/blob/main/User-Stories.md)
-- [Табличка артефактов] (https://docs.google.com/spreadsheets/d/1PDB1S-JbiSdGEvUOIi5YzPj1P6BV81LnLYyTL4tWFMU/edit?usp=sharing)
+- [Пользовательские истории](https://github.com/softpaw-mango-cat/demoshopping_web/blob/main/User-Stories.md)
+- [Табличка артефактов](https://docs.google.com/spreadsheets/d/1PDB1S-JbiSdGEvUOIi5YzPj1P6BV81LnLYyTL4tWFMU/edit?usp=sharing)
 
 
 ## 📝 Образование
