@@ -122,7 +122,7 @@
 
 ## 🌐 Контакты
 
-onemoredragon@gmail.com
+katerina-balakireva@yandex.ru
 
 
   <a href="https://t.me/one_more_dragon"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Contact"/></a>  
