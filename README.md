@@ -77,6 +77,23 @@
 - [Тестовые артефакты](https://github.com/softpaw-mango-cat/petstore-api/tree/main/test-artifacts)
 
 
+### [Проект #4: Автоматизация тестирования веб-сервиса | UI тесты на Java](https://github.com/softpaw-mango-cat/ui-autotests-java)
+
+- [Описание проекта](https://github.com/softpaw-mango-cat/ui-autotests-java/blob/main/README.md)
+- [План тестирования](https://github.com/softpaw-mango-cat/ui-autotests-java/blob/main/docs/Plan.md)
+- [Автотесты](https://github.com/softpaw-mango-cat/ui-autotests-java/tree/main/src/test/java/ru/netology/test)
+- [Баг-репорты](https://github.com/softpaw-mango-cat/ui-autotests-java/issues)
+- [Отчёт по тестированию](https://github.com/softpaw-mango-cat/ui-autotests-java/blob/main/docs/Report.md)
+- [Отчёт по автоматизации](https://github.com/softpaw-mango-cat/ui-autotests-java/blob/main/docs/Summary.md)
+
+
+### [Проект #5: Unit-тестирование банковского приложения | Java ](https://github.com/softpaw-mango-cat/unit-tests-java)
+
+- [Описание проекта](https://github.com/softpaw-mango-cat/unit-tests-java/blob/main/README.md)
+- [Unit-тесты](https://github.com/softpaw-mango-cat/unit-tests-java/tree/main/src/test/java/ru/netology/javaqadiplom)
+- [Баг-репорты](https://github.com/softpaw-mango-cat/unit-tests-java/issues?q=is%3Aissue%20state%3Aclosed)
+
+
 ## 📝 Образование
 
 🎓 **Высшее техническое** - Московский государственный строительный университет, Москва, 2014  
